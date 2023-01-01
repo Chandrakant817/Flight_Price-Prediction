@@ -1,5 +1,8 @@
 # Flight_Price-Prediction
+
 ## Flight_Price Prediction using Machine Learning.
+
+![image](https://user-images.githubusercontent.com/69152112/210169145-a763afd8-9cf6-4dfa-87a7-de9306e136c0.png)
 
 ### Machine Learning Algorithm used:
 
